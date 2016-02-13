@@ -5,4 +5,3 @@ Es wäre cool, wenn sich jeder - der Lust hat - etwas davon aussucht und sich da
 - Ton (erst später nützlich)
 - Spielerklasse u. Tastenbindung
 - Physik (erst später nützlich)
-- 
